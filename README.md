@@ -30,10 +30,10 @@ foreign key (postedBy) references Account(accountId)
 
 # Spring Technical Requirement
 
-## Project must leverage the Spring Boot Framework
+## This project leverages the Spring Boot Framework
 
-Java classes have been provided, but your entire project MUST leverage the Spring framework.
-In addition to functional test cases, "SpringTest" will verify that you have leveraged the Spring framework, Spring Boot, Spring MVC, and Spring Data.
+Java classes have been used, but the entire project leverages the Spring framework.
+In addition to functional test cases, "SpringTest" will verify that I have leveraged the Spring framework, Spring Boot, Spring MVC, and Spring Data.
 SpringTest will verify the following
 
  - That you have, by any means, have a bean for the AccountService, MessageService, AccountRepository, MessageRepository, and SocialMediaController classes
